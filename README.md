@@ -1,9 +1,7 @@
-# To reproduce:
+# How to reproduce:
 
-Run the `build` script:
-```
-npm run build
-```
+1. `npm i`
+2. `npm run build`
 
 The following compilations errors should popup:
 
