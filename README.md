@@ -1,3 +1,5 @@
+Issue was fixed in https://github.com/firebase/firebase-js-sdk/pull/6088.
+
 # How to reproduce:
 
 1. `npm i`
